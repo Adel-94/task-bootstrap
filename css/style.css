@@ -1,0 +1,19 @@
+.header {
+  background: black; }
+  .header p {
+    color: darkgray; }
+  .header .container {
+    padding-top: 5px;
+    padding-bottom: 5px; }
+
+.content {
+  background: #eee; }
+  .content .container {
+    padding-top: 60px;
+    padding-bottom: 60px; }
+
+.container {
+  padding-top: 60px;
+  padding-bottom: 60px; }
+
+/*# sourceMappingURL=style.css.map */
